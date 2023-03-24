@@ -11,4 +11,5 @@ My key skills in data science projects include EDA(Exploratory data analysis) an
 * Excel
 * VBA
 ## Contact
-[(https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BBmcVxNklReyKgA2oWkLdLw%3D%3D)]
+linkedin.com/in/jyothi-hs-944b2a221
+
