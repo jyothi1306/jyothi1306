@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**jyothi1306/jyothi1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Jyothi H S
+##  Aspiring data analyst
+### I am an aspiring Data Science enthusiast, with skills in Data Science, Machine Learning, and Deep Learning. I've worked on minor projects using frameworks such as Tensorflow, Keras, Scikit-learn, and SciPy. I am also having programming skills in Python and SQL.
+My key skills in data science projects include EDA(Exploratory data analysis) and Machine Learning model implementation
+Skills:
+R
+Python
+Machine Learning
+Deep Learning
+SQL
+Excel
+VBA
